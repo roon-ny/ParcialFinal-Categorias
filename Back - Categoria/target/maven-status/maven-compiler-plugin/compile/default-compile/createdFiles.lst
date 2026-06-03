@@ -1,0 +1,16 @@
+pa\categoria\Controller\Mapper\CategoriaMapper.class
+pa\categoria\Client\CarreraClient$1.class
+pa\categoria\Config\RestClientConfig.class
+pa\categoria\Controller\Errores\GlobalExceptionHandler.class
+pa\categoria\Client\Dto\CarreraDto.class
+pa\categoria\Modelo\CategoriaResponse.class
+pa\categoria\Controller\Errores\CategoriaNoEncontrada.class
+pa\categoria\Repository\CategoriaRepository.class
+pa\categoria\Service\CategoriaService.class
+pa\categoria\Controller\Errores\CamposFaltantes.class
+pa\categoria\Client\CarreraClient.class
+pa\categoria\Controller\CategoriaRestController.class
+pa\categoria\CategoriaApplication$1.class
+pa\categoria\Service\ICategoriaService.class
+pa\categoria\CategoriaApplication.class
+pa\categoria\Modelo\CategoriaCarrera.class

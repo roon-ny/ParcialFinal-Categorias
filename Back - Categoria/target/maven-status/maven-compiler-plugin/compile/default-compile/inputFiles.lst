@@ -1,0 +1,14 @@
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\CategoriaApplication.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Client\CarreraClient.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Client\Dto\CarreraDto.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Config\RestClientConfig.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Controller\CategoriaRestController.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Controller\Errores\CamposFaltantes.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Controller\Errores\CategoriaNoEncontrada.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Controller\Errores\GlobalExceptionHandler.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Controller\Mapper\CategoriaMapper.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Modelo\CategoriaCarrera.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Modelo\CategoriaResponse.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Repository\CategoriaRepository.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Service\CategoriaService.java
+C:\Users\roonn\Downloads\Parcial_Final\Parcial_Final\Back - Categoria\src\main\java\pa\categoria\Service\ICategoriaService.java
